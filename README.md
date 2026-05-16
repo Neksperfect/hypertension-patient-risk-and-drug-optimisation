@@ -19,9 +19,9 @@ This project addresses two clinical questions:
 ## Repository Structure
 
 ```
-├── Zion_Tech_Hub_Data_Challenge_Final.ipynb   # Full analysis notebook
-├── report_final.docx                           # Analytical report with findings & recommendations
-└── README.md                                   # You are here
+├── report_final.pdf                                     # Analytical report with findings & recommendations
+├── README.md                                            # You are here
+└── Zion_Tech_Hub_Data_Challenge_Final.ipynb             # Full analysis notebook
 ```
 
 ---
